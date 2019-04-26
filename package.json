@@ -4,7 +4,8 @@
   "description": "Dangerous React Component",
   "main": "index.js",
   "scripts": {
-    "test": "npm test"
+    "build": "microbundle",
+    "dev": "microbundle watch"
   },
   "repository": {
     "type": "git",
@@ -20,5 +21,14 @@
   "bugs": {
     "url": "https://github.com/dance2die/dangerous-components/issues"
   },
-  "homepage": "https://github.com/dance2die/dangerous-components#readme"
+  "homepage": "https://github.com/dance2die/dangerous-components#readme",
+  "devDependencies": {
+    "microbundle": "^0.11.0",
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6"
+  },
+  "peerDependencies": {
+    "react": "^16.8.0",
+    "react-dom": "^16.8.0"
+  }
 }
