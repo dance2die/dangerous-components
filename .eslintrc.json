@@ -4,12 +4,12 @@
         "es6": true,
         "node": true
     },
-    "extends": "airbnb",
     "globals": {
         "Atomics": "readonly",
         "SharedArrayBuffer": "readonly"
     },
     "parserOptions": {
+        "sourceType": "module",
         "ecmaFeatures": {
             "jsx": true
         },
