@@ -1,6 +1,6 @@
 # ☢⚛ dangerous-components
 
-![GitHub](https://img.shields.io/github/license/dance2die/dangerous-components.svg)
+[![Known Vulnerabilities](https://snyk.io/test/github/dance2die/dangerous-components/badge.svg)](https://snyk.io/test/github/dance2die/dangerous-components)
 ![npm](https://img.shields.io/npm/v/dangerous-components.svg)
 ![npm bundle size](https://img.shields.io/bundlephobia/minzip/dangerous-components.svg)
 ![npm bundle size](https://img.shields.io/bundlephobia/min/dangerous-components.svg)
