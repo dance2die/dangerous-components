@@ -1,7 +1,7 @@
-import React from 'react'
+import React from 'react';
 
-const Dangerous = (html = '', as: Component = 'div') => (
-	<Component dangerouslySetInnerHTML={{ __html: html }} />
-)
+const Dangerous = ({ html = '', as: Component = 'div', ...rest }) => (
+  <Component dangerouslySetInnerHTML={{ __html: html }} {...rest} />
+);
 
-export default Dangerous
+export default Dangerous;
