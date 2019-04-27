@@ -33,7 +33,7 @@ jobs:
           command: npm install
       - run:
           name: Build production version
-          command: npm build
+          command: npm run build
       # # https://docs.codeclimate.com/docs/circle-ci-test-coverage-example#section-circleci-20
       # - run:
       #     name: Setup Code Climate test-reporter
@@ -74,7 +74,7 @@ jobs:
 
 workflows:
   version: 2
-  test-deploy:
+  deploy-to-npm:
     jobs:
       - test:
           filters:
