@@ -1,5 +1,12 @@
 # ☢⚛ dangerous-components
 
+![GitHub](https://img.shields.io/github/license/dance2die/dangerous-components.svg)
+![npm](https://img.shields.io/npm/v/dangerous-components.svg)
+![npm bundle size](https://img.shields.io/bundlephobia/minzip/dangerous-components.svg)
+![npm bundle size](https://img.shields.io/bundlephobia/min/dangerous-components.svg)
+![CircleCI (all branches)](https://img.shields.io/circleci/project/github/dance2die/dangerous-components.svg)
+
+
 Easy way to embed dangerous Inner HTML for React.
 
 This is a spiritual sucessor of [dangerous](https://www.npmjs.com/package/dangerous) library, which was harder to use and much bigger in terms of library size.
