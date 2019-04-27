@@ -11,6 +11,9 @@
     "dev": "microbundle watch",
     "test": "echo 'abc'"
   },
+  "files": [
+    "dist/**/*"
+  ],
   "repository": {
     "type": "git",
     "url": "git+https://github.com/dance2die/dangerous-components.git"
