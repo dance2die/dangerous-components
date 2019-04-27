@@ -1,6 +1,6 @@
 {
   "name": "dangerous-components",
-  "version": "0.0.1-alpha.9",
+  "version": "0.0.1-alpha.10",
   "description": "Dangerous React Component",
   "main": "dist/index.js",
   "umd:main": "dist/index.umd.js",
@@ -13,7 +13,7 @@
   },
   "files": [
     "**/*",
-    "dist/*"
+    "dist/"
   ],
   "repository": {
     "type": "git",
