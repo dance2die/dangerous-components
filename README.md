@@ -2,7 +2,7 @@
 
 Easy way to embed dangerous Inner HTML for React.
 
-This is a spiritual sucessor of dangerous library, which was harder to use and much bigger in terms of library size.
+This is a spiritual sucessor of [dangerous](https://www.npmjs.com/package/dangerous) library, which was harder to use and much bigger in terms of library size.
 
 # 🤔 Why?
 
