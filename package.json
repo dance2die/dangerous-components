@@ -1,6 +1,6 @@
 {
   "name": "dangerous-components",
-  "version": "0.0.1-alpha.10",
+  "version": "0.0.1-alpha.11",
   "description": "Dangerous React Component",
   "main": "dist/index.js",
   "umd:main": "dist/index.umd.js",
@@ -11,10 +11,6 @@
     "dev": "microbundle watch",
     "test": "echo 'abc'"
   },
-  "files": [
-    "**/*",
-    "dist/"
-  ],
   "repository": {
     "type": "git",
     "url": "git+https://github.com/dance2die/dangerous-components.git"
