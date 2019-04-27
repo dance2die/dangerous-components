@@ -1,6 +1,6 @@
 {
   "name": "dangerous-components",
-  "version": "0.0.1-alpha.0",
+  "version": "0.0.1-alpha.5",
   "description": "Dangerous React Component",
   "main": "dist/index.js",
   "umd:main": "dist/index.umd.js",
